@@ -1,0 +1,74 @@
+.cont {
+    font-size: 7rem;
+    background-image: url("#");
+    background-repeat: repeat-x;
+    position: relative;
+    background-position: 0% 0.6em; /* Modifié pour centrer en haut */
+    background-size: 100%;
+    height: 100vh; /* Modifié pour occuper la hauteur totale de la vue */
+    display:flex;
+    flex-direction: column; 
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.cont h1 {
+    -webkit-text-fill-color: white;
+    filter: drop-shadow(0px 2px 2px rgba(255, 255, 255, 0.5)) 
+    drop-shadow(0px 0px 4px rgba(255, 204, 0, 0.5))
+    drop-shadow(0px 0px 10px rgba(255, 204, 0, 0.5))
+    drop-shadow(0px 0px 50px #ffcc00);
+    color: deeppink;
+    font-size: 7rem;
+    font-weight: 500;
+    font-family: "Londrina Sketch", sans-serif;
+    letter-spacing: 4px;
+    white-space: nowrap;
+    margin-bottom: auto; /* Modifié pour pousser vers le haut */
+}
+
+.cont h1#reflection {
+    position: absolute;
+    top: 50%;
+    transform: rotateX(180deg) translateY(-50px);
+    opacity: 0.1;
+}
+
+.cont img {
+    position: absolute;
+    bottom: 10%; /* Modifié pour aligner en bas */
+    left: 50%; /* Modifié pour centrer horizontalement */
+    transform: translateX(-50%); /* Modifié pour centrer horizontalement */
+    opacity: 0.5;
+    z-index: -1;
+}
+
+/* ... Autres styles ... */
+
+.footer {
+    background-color: #3333338b;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+    width: 100%;
+    margin: 0; /* Ajusté pour éliminer toutes les marges */
+}
+
+.title {
+    text-align: left;
+    font-size: 24px;
+    color: #79640d;
+    margin-bottom: 5px;
+}
+
+.pr {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.copy {
+    font-size: 16px;
+    margin-bottom: 70px; /* Ajusté pour éliminer toutes les marges */
+}
+
+/* ... Autres styles ... */

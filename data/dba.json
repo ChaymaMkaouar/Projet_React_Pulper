@@ -1,0 +1,228 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "reference": "A1B-123",
+      "marque": "Perpul",
+      "prixVente": "70",
+      "qtestock": "12",
+      "imageartpetitf": "images/art1.jpg"
+    },
+    {
+      "id": 2,
+      "reference": "A2B-123",
+      "marque": "Perpul",
+      "prixVente": "60",
+      "qtestock": "30",
+      "imageartpetitf": "images/art2.jpg"
+    },
+    {
+      "id": 3,
+      "reference": "A3B-123",
+      "marque": "Perpul",
+      "prixVente": "55",
+      "qtestock": "10",
+      "imageartpetitf": "images/art3.png"
+    },
+    {
+      "id": 4,
+      "reference": "A4B-123",
+      "marque": "Perpul",
+      "prixVente": "70",
+      "qtestock": "20",
+      "imageartpetitf": "images/art4.png"
+    },
+    {
+      "id": 5,
+      "reference": "A5B-123",
+      "marque": "Perpul",
+      "prixVente": "65",
+      "qtestock": "30",
+      "imageartpetitf": "images/art5.png"
+    },
+    {
+      "id": 6,
+      "reference": "A6B-123",
+      "marque": "Perpul",
+      "prixVente": "60",
+      "qtestock": "10",
+      "imageartpetitf": "images/art6.png"
+    },
+    {
+      "id": 7,
+      "reference": "A7B-123",
+      "marque": "Perpul",
+      "prixVente": "75",
+      "qtestock": "30",
+      "imageartpetitf": "images/art7.png"
+    },
+    {
+      "id": 8,
+      "reference": "A8B-123",
+      "marque": "Perpul",
+      "prixVente": "75",
+      "qtestock": "30",
+      "imageartpetitf": "images/art8.png"
+    },
+    {
+      "id": 9,
+      "reference": "A9B-123",
+      "marque": "Perpul",
+      "prixVente": "45",
+      "qtestock": "30",
+      "imageartpetitf": "images/art9.png"
+    },
+    {
+      "id": 10,
+      "reference": "A1C-123",
+      "marque": "Perpul",
+      "prixVente": "40",
+      "qtestock": "30",
+      "imageartpetitf": "images/art10.png"
+    },
+    {
+      "id": 11,
+      "reference": "A2C-123",
+      "marque": "Perpul",
+      "prixVente": "65",
+      "qtestock": "30",
+      "imageartpetitf": "images/art11.png"
+    },
+    {
+      "id": 12,
+      "reference": "A3C-123",
+      "marque": "Perpul",
+      "prixVente": "45",
+      "qtestock": "30",
+      "imageartpetitf": "images/art12.png"
+    },
+    {
+      "id": 13,
+      "reference": "A4C-123",
+      "marque": "Perpul",
+      "prixVente": "60",
+      "qtestock": "30",
+      "imageartpetitf": "images/art13.png"
+    },
+    {
+      "id": 14,
+      "reference": "A5C-123",
+      "marque": "Perpul",
+      "prixVente": "45",
+      "qtestock": "30",
+      "imageartpetitf": "images/art14.png"
+    },
+    {
+      "id": 15,
+      "reference": "A4C-123",
+      "marque": "Perpul",
+      "prixVente": "65",
+      "qtestock": "30",
+      "imageartpetitf": "images/art15.jpeg"
+    },
+    {
+      "id": 16,
+      "reference": "A5C-123",
+      "marque": "Perpul",
+      "prixVente": "45",
+      "qtestock": "30",
+      "imageartpetitf": "images/art16.jpeg"
+    },
+    {
+      "id": 17,
+      "reference": "A6C-123",
+      "marque": "Perpul",
+      "prixVente": "55",
+      "qtestock": "30",
+      "imageartpetitf": "images/art17.jpeg"
+    },
+    {
+      "id": 19,
+      "reference": "A7C-123",
+      "marque": "Perpul",
+      "prixVente": "45",
+      "qtestock": "30",
+      "imageartpetitf": "images/art19.jpeg"
+    },
+    {
+      "id": 20,
+      "reference": "A8C-123",
+      "marque": "Perpul",
+      "prixVente": "40",
+      "qtestock": "30",
+      "imageartpetitf": "images/art20.jpeg"
+    },
+    {
+      "id": 21,
+      "reference": "A9C-123",
+      "marque": "Perpul",
+      "prixVente": "45",
+      "qtestock": "30",
+      "imageartpetitf": "images/art21.jpeg"
+    },
+    {
+      "id": 22,
+      "reference": "A1D-123",
+      "marque": "Perpul",
+      "prixVente": "50",
+      "qtestock": "30",
+      "imageartpetitf": "images/art22.jpeg"
+    },
+    {
+      "id": 23,
+      "reference": "A2D-123",
+      "marque": "Perpul",
+      "prixVente": "55",
+      "qtestock": "30",
+      "imageartpetitf": "images/art23.jpeg"
+    },
+    {
+      "id": 24,
+      "reference": "A3D-123",
+      "marque": "Perpul",
+      "prixVente": "45",
+      "qtestock": "30",
+      "imageartpetitf": "images/art24.jpeg"
+    },
+    {
+      "id": 25,
+      "reference": "A4D-123",
+      "marque": "Perpul",
+      "prixVente": "35",
+      "qtestock": "30",
+      "imageartpetitf": "images/art25.jpeg"
+    }
+  ],
+  "client": [
+    {
+      "id": 1,
+      "nom": "ahmed",
+      "prenom": "ah",
+      "age": "30",
+      "adresse": "azert@gmail.com",
+      "num_du_carte": "123446",
+      "telephone": "123456",
+      "imageartpetit": "images/h3.jpg"
+    },
+    {
+      "id": 2,
+      "nom": "maria",
+      "prenom": "mr",
+      "age": "20",
+      "adresse": "azer@gmail.com",
+      "num_du_carte": "13456",
+      "telephone": "123654",
+      "imageartpetit": "images/fe2.jpg"
+    },
+    {
+      "id": 3,
+      "nom": "Adem",
+      "prenom": "ze",
+      "age": "23",
+      "adresse": "azerty@gmail.com",
+      "num_du_carte": "987456",
+      "telephone": "215478963",
+      "imageartpetit": "images/h4.jpg"
+    }
+  ]
+}
